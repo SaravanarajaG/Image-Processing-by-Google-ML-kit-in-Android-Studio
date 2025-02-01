@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="error_loading_model">Error loading model or labels.</string>
+    <string name="unsupported_image_format">Unsupported image format. Please select a JPEG or PNG image.</string>
+    <string name="error_loading_image">Error loading image.</string>
+    <string name="model_not_loaded">Model or labels not loaded properly.</string>
+    <string name="predicted">Predicted: </string>
+    <string name="no_labels_detected">No labels detected.</string>
+    <string name="mlkit_prediction_failed">ML Kit prediction failed.</string>
+    <string name="unexpected_mlkit_error">Unexpected error during ML Kit prediction.</string>
+</resources>
